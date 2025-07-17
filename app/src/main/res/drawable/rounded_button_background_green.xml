@@ -1,0 +1,16 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="8dp" />
+            <solid android:color="#388E3C" /> <!-- Темно-зеленый при нажатии -->
+            <stroke android:width="1dp" android:color="#2E7D32" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="8dp" />
+            <solid android:color="#4CAF50" /> <!-- Основной зеленый цвет -->
+            <stroke android:width="1dp" android:color="#388E3C" />
+        </shape>
+    </item>
+</selector>

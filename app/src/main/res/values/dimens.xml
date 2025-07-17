@@ -1,0 +1,7 @@
+<resources>
+    <!-- Размер иконок при импорте -->
+    <dimen name="import_icon_size">24dp</dimen>
+    <dimen name="icon_size_small">24dp</dimen>
+    <dimen name="grid_spacing">16dp</dimen>
+    <dimen name="button_height">120dp</dimen>
+</resources>
