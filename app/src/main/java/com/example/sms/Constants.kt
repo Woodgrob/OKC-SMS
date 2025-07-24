@@ -1,4 +1,4 @@
-package com.example.myapplication
+package ru.okc.app
 
 object Constants {
     const val REQUEST_CODE_CONFIG = 1

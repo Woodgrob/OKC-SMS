@@ -1,5 +1,5 @@
 
-        package com.example.myapplication
+        package ru.okc.app
 
         import android.Manifest
                 import android.app.Activity

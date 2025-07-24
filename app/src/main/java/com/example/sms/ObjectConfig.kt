@@ -1,4 +1,4 @@
-package com.example.myapplication
+package ru.okc.app
 
 data class ObjectConfig(
     val id: String,

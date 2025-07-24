@@ -1,4 +1,4 @@
-package com.example.myapplication
+package ru.okc.app
 
 data class DeviceConfig(
     val id: String,

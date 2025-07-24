@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "ru.okc.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.myapplication"
-        minSdk = 21
+        applicationId = "ru.okc.app"
+        minSdk = 29
         targetSdk = 34
-        versionCode = 1
+        versionCode = 4
         versionName = "4.5.5"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"

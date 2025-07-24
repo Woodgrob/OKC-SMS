@@ -1,4 +1,4 @@
-package com.example.myapplication
+package ru.okc.app
 
 import android.content.Intent
 import android.os.Bundle
